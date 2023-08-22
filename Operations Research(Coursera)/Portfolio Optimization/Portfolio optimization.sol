@@ -1,0 +1,5 @@
+# Solution for model Portfolio optimization
+# Objective value = 1.2888888888888938e+09
+C0 1.3333333333333317e+03
+C1 8.3333333333333530e+02
+C2 5.2064798070936078e-15
