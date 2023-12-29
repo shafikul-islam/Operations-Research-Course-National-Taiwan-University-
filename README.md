@@ -3,7 +3,7 @@ Hey there! 👋 Welcome to my GitHub repository showcasing my journey through th
 
 ## Course 1: Operations Research (1) - Models and Applications
 
-Get ready to embark on a journey into the world of optimization and mathematical modeling. 🌟 In this course, we explore various techniques to tackle real-world optimization problems with a business focus. Here's a sneak peek of what's in store:
+ 🌟 In this course, we explore various techniques to tackle real-world optimization problems with a business focus. Here's a sneak peek of what's in store:
 
 - Dive deep into concepts like Linear Programming, Integer Programming, and Nonlinear Programming.
 - Discover the power of Microsoft Excel as we solve optimization problems using its user-friendly interface.
@@ -25,11 +25,11 @@ Prepare to take your optimization expertise to the next level! 🚀 This course 
 - Explore the intriguing world of Network Flow and Convex Analysis.
 - Learn about Lagrangian Duality and the KKT condition to tackle complex optimization scenarios.
 
-In this repository, you'll find a treasure trove of resources:
+In this repository, you'll find :
 - 📝 Assignments solved with Gurobi, showcasing real-world problem-solving skills.
 - 📊 Slides from the courses, ensuring a comprehensive understanding of the topics.
 - 🐍 Python code demonstrating the integration of Gurobi solver in optimization problems.
 
 Feel free to explore, learn, and leverage the knowledge gained from these courses. Let's optimize the way we approach challenges together! 🌐🧠
 
-Have questions or insights? Don't hesitate to share – we're all on this journey of learning and growth. 🌱 Happy optimizing! 🚀
+Have questions or insights? Don't hesitate to share. 🌱 Happy optimizing! 🚀
