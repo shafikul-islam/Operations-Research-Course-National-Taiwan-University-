@@ -1,4 +1,4 @@
-# Operations-Research-Course-National-Taiwan-University-
+# Operations Research Courses from Coursera offered by National Taiwan University
 Hey there! 👋 Welcome to my GitHub repository showcasing my journey through three insightful Coursera courses on Operations Research. In this repository, you'll find a treasure trove of knowledge and resources related to optimization, mathematical models, and algorithms. Let's dive into the key highlights of each course:
 
 ## Course 1: Operations Research (1) - Models and Applications
